@@ -1,3 +1,5 @@
+While folke is away, I am cherry picking the commits/fixes from the [pull requests](https://github.com/folke/noice.nvim/pulls?q=sort%3Aupdated-desc+is%3Apr+is%3Aopen) that I need.
+
 # 💥 Noice _(Nice, Noise, Notice)_
 
 Highly experimental plugin that completely replaces the UI for `messages`, `cmdline` and the `popupmenu`.
